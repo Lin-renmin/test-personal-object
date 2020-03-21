@@ -15,6 +15,14 @@ export default {
   }
 }
 </script>
+<style>
+#app {
+  background-image: url('./assets/fish.jpg');
+  background-size: 100% 100%;
+  margin: 0 !important;
+}
+</style>
+
 
 <style>
 #app {
